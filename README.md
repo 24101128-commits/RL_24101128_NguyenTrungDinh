@@ -4,4 +4,4 @@ MSSV:24101128
 Lớp:EEE-AI
 GitHub username:
 ## Danh sách bài thực hành
-- [Lab01 - Làm quen với Gymnasium](./Lab1/)
+- [Lab1 - Làm quen với Gymnasium](./lab1/)
