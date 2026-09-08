@@ -1,1 +1,0 @@
-Lab02 không s? d?ng dataset bên ngoài. D? li?u môi tru?ng du?c t?o tr?c ti?p t? FrozenLake-v1 c?a Gymnasium.
