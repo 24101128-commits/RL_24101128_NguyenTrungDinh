@@ -8,4 +8,4 @@ GitHub username:24101128
 - [Lab2 - mô hình hóa và giải bài toán học tăng cường bằng Markov Decision Process (MDP)](./hoc%20tang%20cuong/lab2)
 - [TH1_Gym_Tutorial](./hoc%20tang%20cuong/TH1_RL)
  - [TH2-Environment](./hoc%20tang%20cuong/TH2-Environment)
- -[Thuc_Hanh_MDP_Taxiv3_Cliff](./hoc%20tang%20cuong/Thuc_Hanh_MDP_Taxiv3_Cliff)
+ - [Thuc_Hanh_MDP_Taxiv3_Cliff](./hoc%20tang%20cuong/Thuc_Hanh_MDP_Taxiv3_Cliff)
