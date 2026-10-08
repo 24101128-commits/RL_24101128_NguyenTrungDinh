@@ -9,3 +9,4 @@
 - [TH1_Gym_Tutorial](./hoc%20tang%20cuong/TH1_RL)
  - [TH2-Environment](./hoc%20tang%20cuong/TH2-Environment)
  - [Thuc_Hanh_MDP_Taxiv3_Cliff](./hoc%20tang%20cuong/Thuc_Hanh_MDP_Taxiv3_Cliff)
+-[Lab3_Monte_Carlo_Methods].(./hoc%20tang%20cuong/Lab3_Monte_Carlo_Methods)
